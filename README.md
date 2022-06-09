@@ -1,2 +1,6 @@
 # practica
 js
+
+
+
+cositas 
